@@ -1,6 +1,6 @@
 cask "neonv" do
-  version "0.8.0"
-  sha256 "8304e27a087df3a0bbf417c66f83f8a73a712de7c150070ea3e3d065c45197e5"
+  version "0.9.0"
+  sha256 "5c497fe0a11c9062a7fea152bee4cc93112712fa3fc258536ced83f86b08ecfa"
 
   url "https://github.com/msnodderly/neonv/releases/download/v#{version}/NeoNV-#{version}-macos-universal.dmg"
   name "NeoNV"
